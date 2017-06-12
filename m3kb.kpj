@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath></BuildPath>
+    <CompilerWarningsAsErrors>False</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_9cf551945b1503ff951d847b34cc3fc3</ID>
+      <Filename>m3kb.kmn</Filename>
+      <Filepath>m3kb.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>m3kb</Name>
+        <Copyright>© m3kb</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_03617531895b82cfe7cee34b0570305d</ID>
+      <Filename>m3kb.bmp</Filename>
+      <Filepath>m3kb.bmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.bmp</FileType>
+      <ParentFileID>id_9cf551945b1503ff951d847b34cc3fc3</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>
