@@ -9,6 +9,7 @@ store(&BITMAP) 'm3kb.bmp'
 store(&TARGETS) 'windows macosx linux'
 store(&ETHNOLOGUECODE) 'MYA'
 store(&COPYRIGHT) '© m3kb'
+store(&KEYBOARDVERSION) '1.0.0'
 
 begin Unicode > use(Main)
 
