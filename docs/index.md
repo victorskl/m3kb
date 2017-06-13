@@ -9,6 +9,6 @@ M3 Keyboard is a fork [Myanmar3](https://code.google.com/archive/p/myanmar3sourc
 - Simply double click to install m3kb-vX.X.X.kmx
 - Use ___Win + Space___ Bar to switch between ENG and Burmese
 
-### Layout Guide
+### User Guide
 - [Read Online](web/kbd.html)
 - [Read PDF](m3kb_user_manual.pdf)
