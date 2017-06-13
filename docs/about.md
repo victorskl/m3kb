@@ -7,7 +7,7 @@
 - Bottom line, it is more for user focus. It is for me. I would want to spend the least minimum effort and time to have this. Best, if I don't even need to do this. But all avil are void to the way I wanted. So here I am making this happen. And share with you! One fine day in future, I guess, we won't need this. But not for now. So until then.
 
 ### Standard
-- Unicode X.0 Character Code Charts - mainly focus on [Myanmar Burmese](http://unicode.org/charts/PDF/U1000.pdf) (aka _Code Chart_)
+- Unicode [X.X] Character Code Charts - mainly focus on [Myanmar Burmese](http://unicode.org/charts/PDF/U1000.pdf) (aka _Code Chart_)
   - [http://unicode.org/charts/](http://unicode.org/charts/)
 - Unicode Technical Note #11 Representing Myanmar in Unicode: Details and Examples (aka _UTN#11_)
   - [http://www.unicode.org/notes/tn11/](http://www.unicode.org/notes/tn11/)
