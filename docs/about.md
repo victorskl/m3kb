@@ -1,10 +1,10 @@
 ### About
 - M3KB is maintained here for __my own personal use__. 
 - LGPL is just inherited from its original work. No harm for user anyway. Subject to change if I decide to use some other tech to back the layout creation - _see below_. Generally speaking no serious stuff going here, all free for good!
-- For Burmese, you may even decide to use what the default input method comes with the OS. However, these default input methods are not usually affinity to the ___Smart___ feature that require for complex script like Burmese (why? give a skim through UTN#11).
-- I always take keyboard layout is something personal preference. There are a bunch of way to make your own _personalized_ keyboard layout if you are a tech-savvy a bit and, spare a day or two. For that, check the tech and standard section below for some pointers.
-- For now, I adopt Keyman (again) because it is now [owned by SIL](https://keyman.com/sil-acquisition/) and announced that it is [going free](https://keyman.com/free/). Again, subject to change otherwise.
-- Bottom line, it is more for user focus. It is for me. I would want to spend the least minimum effort and time to have this. Best, if I don't even need to do this. But all avil are void to the way I wanted. So here I am making this happen. And share with you!
+- For Burmese, you may even decide to use the default input method comes with the OS. However, these default input methods are not usually affinity to the ___Smart___ feature that require for complex script like Burmese (why? give a skim through UTN#11).
+- I always take keyboard layout is something personal preference. There are a bunch of way to make your own _personalized_ keyboard layout if you are tech-savvy a bit and, spare a day or two. For that, check the tech and standard section below for some pointers.
+- For now, I adopt Keyman (again) because it is now [owned by SIL](https://keyman.com/sil-acquisition/) and announced that it is [going free](https://keyman.com/free/). Again, subject to change otherwise I feel another tech is cool!
+- Bottom line, it is more for user focus. It is for me. I would want to spend the least minimum effort and time to have this. Best, if I don't even need to do this. But all avil are void to the way I wanted. So here I am making this happen. And share with you! One fine day in future, I guess, we won't need this. But not for now. So until then.
 
 ### Standard
 - Unicode X.0 Character Code Charts - mainly focus on [Myanmar Burmese](http://unicode.org/charts/PDF/U1000.pdf) (aka _Code Chart_)
