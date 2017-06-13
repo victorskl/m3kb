@@ -1,4 +1,4 @@
-M3 Keyboard is a fork [Myanmar3](https://code.google.com/archive/p/myanmar3source/) Keyboard Layout for latest Keyman.
+M3 Keyboard is a fork [Myanmar3](https://code.google.com/archive/p/myanmar3source/) Keyboard Layout for latest Keyman. Read [about](about) page for more.
 
 ## Documentation
 
