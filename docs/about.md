@@ -16,6 +16,6 @@
 ### Standard Note
 - There are two documents that this work will strictly follow:
   - Unicode X.0 Character Code Charts - only [Myanmar Burmese](http://unicode.org/charts/PDF/U1000.pdf)
-    - http://unicode.org/charts/
+    - [http://unicode.org/charts/](http://unicode.org/charts/)
   - Unicode Technical Note #11 Representing Myanmar in Unicode: Details and Examples 
-    - http://www.unicode.org/notes/tn11/
+    - [http://www.unicode.org/notes/tn11/](http://www.unicode.org/notes/tn11/)
