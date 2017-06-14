@@ -3,42 +3,43 @@ c Credits:
 c Sun Tun (ranka30@gmail.com) - original Myanmar3 author.
 c Victor San Kho Lin - fork maintainer.
 store(&VERSION) '9.0'
-store(&NAME) 'm3kb'
+store(&NAME) 'M3KB Myanmar Keyboard'
 
 store(&BITMAP) 'm3kb.bmp'
 store(&TARGETS) 'windows macosx linux'
 store(&ETHNOLOGUECODE) 'MYA'
-store(&COPYRIGHT) '© m3kb'
-store(&KEYBOARDVERSION) '1.0.0'
+store(&COPYRIGHT) '© M3KB'
+store(&KEYBOARDVERSION) '1.1.0'
+store(&WINDOWSLANGUAGES) 'x0455'
 
 begin Unicode > use(Main)
 
- store(baseK)   'qwert' \
-                'yuiop' \
-                "[zxc"  \
-                "vbnQ" \
-                "OP{AKL" \
-                "ZXCVNM" \
-                '!#@$%^' \
-                '&*|' \
-                '_\],' \
-                '`~' \
-                'WERTYUI'
+store(baseK) 'qwert' \
+             'yuiop' \
+             '[zxc'  \
+             'vbnQ' \
+             'OP{AKL' \
+             'ZXCVBNM' \
+             '!#@$%^' \
+             '&*|' \
+             '_\]' \
+             '`~' \
+             'WERTYUI'
                 
- store(baseU)  U+1006 U+1010 U+1014 U+1019 U+1021 \
-               U+1015 U+1000 U+1004 U+101E U+1005 \
-               U+101F U+1016 U+1011 U+1001 \
-               U+101C U+1018 U+100A U+1008 \
-               U+103F U+100F U+1027 U+1017 U+1012 U+1013 \
-               U+1007 U+100C U+1003 U+1020 U+1009 U+1026 \                
-               U+100D U+100B U+1052 U+1053 U+1054 U+1055 \
-               U+101B U+1002 U+1051 \
-               U+1035 U+104F U+1029 U+101A\
-               U+1050 U+100E \
-               U+101D U+1023 U+104E U+1024 U+104C U+1025 U+104D 
+store(baseU) U+1006 U+1010 U+1014 U+1019 U+1021 \
+             U+1015 U+1000 U+1004 U+101E U+1005 \
+             U+101F U+1016 U+1011 U+1001 \
+             U+101C U+1018 U+100A U+1008 \
+             U+101D U+100F U+1027 U+1017 U+1012 U+1013 \
+             U+1007 U+100C U+1003 U+1020 U+101A U+1009 U+1026 \                
+             U+100D U+100B U+1052 U+1053 U+1054 U+1055 \
+             U+101B U+1002 U+1051 \
+             U+1035 U+104F U+1029 \
+             U+1050 U+100E \
+             U+103F U+1023 U+104E U+1024 U+104C U+1025 U+104D 
                
                  
-store(addK) '/?]}'
+store(addK) '><]}'
 store(addU) U+104B U+104A U+1029 U+102A
              
 store(numK)     '1234567890' 
