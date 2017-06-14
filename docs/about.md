@@ -3,7 +3,7 @@
 - LGPL is just inherited from its original work.
 - For Burmese, you may even decide to use the default input method comes with the OS. However, these default input methods are not usually affinity to the ___Smart___ feature that require for complex script like Burmese (why? give a skim through UTN#11).
 - There are a couple of way to make your own _personalized_ keyboard layout if you are tech-savvy a bit and, spare a day or two. For that, check the tech and standard section below for some pointers.
-- I adopt Keyman (again) because it is now [owned by SIL](https://keyman.com/sil-acquisition/) and announced that it is [going free](https://keyman.com/free/). Hope for the better outcome of future [SIL](https://www.sil.org/) Keyman, but subject to change otherwise I feel another tech is cool!
+- I adopt Keyman (again) because it is now [owned by SIL](https://keyman.com/sil-acquisition/) and announced that it is [going free](https://keyman.com/free/). Hope for the better outcome of future [SIL Keyman](http://software.sil.org/products/), but subject to change otherwise I feel another tech is __cool__!
 - I would want to spend the least minimum effort and time to have this. Best, if I don't even need to do this. One fine day in future, I guess, we won't need this. So until then.
 
 ### Standard
