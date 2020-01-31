@@ -1,5 +1,7 @@
-.idea
 Thumbs.db
 
-*.kmx
+.idea
 *.user
+
+*.kmx
+*.kmp

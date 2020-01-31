@@ -1,4 +1,4 @@
 # M3KB
-M3 Keyboard Layout is a fork Myanmar3 Keyboard Layout for latest Keyman.
+M3KB keyboard layout is a fork of Myanmar3 keyboard layout for latest Keyman.
 
 More at https://victorskl.github.io/m3kb/

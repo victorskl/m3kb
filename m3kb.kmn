@@ -9,7 +9,7 @@ store(&BITMAP) 'm3kb.bmp'
 store(&TARGETS) 'windows macosx linux'
 store(&ETHNOLOGUECODE) 'MYA'
 store(&COPYRIGHT) '© M3KB'
-store(&KEYBOARDVERSION) '1.1.1'
+store(&KEYBOARDVERSION) '1.2'
 store(&WINDOWSLANGUAGES) 'x0455'
 store(&LANGUAGE) 'x0455'
 

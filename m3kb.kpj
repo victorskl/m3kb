@@ -4,13 +4,15 @@
     <BuildPath></BuildPath>
     <CompilerWarningsAsErrors>False</CompilerWarningsAsErrors>
     <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>False</CheckFilenameConventions>
+    <ProjectType>keyboard</ProjectType>
   </Options>
   <Files>
     <File>
-      <ID>id_9cf551945b1503ff951d847b34cc3fc3</ID>
+      <ID>id_2685eedc1d41dac0a8e68bd697cd1ce3</ID>
       <Filename>m3kb.kmn</Filename>
       <Filepath>m3kb.kmn</Filepath>
-      <FileVersion>1.1.1</FileVersion>
+      <FileVersion>1.2</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
         <Name>M3KB Myanmar Keyboard</Name>
@@ -18,12 +20,12 @@
       </Details>
     </File>
     <File>
-      <ID>id_03617531895b82cfe7cee34b0570305d</ID>
+      <ID>id_f5fb4d9ace243fd3b3a5f00a76c6fd65</ID>
       <Filename>m3kb.bmp</Filename>
       <Filepath>m3kb.bmp</Filepath>
       <FileVersion></FileVersion>
       <FileType>.bmp</FileType>
-      <ParentFileID>id_9cf551945b1503ff951d847b34cc3fc3</ParentFileID>
+      <ParentFileID>id_2685eedc1d41dac0a8e68bd697cd1ce3</ParentFileID>
     </File>
   </Files>
 </KeymanDeveloperProject>

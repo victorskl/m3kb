@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>12.0.66.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">1.2</Version>
+    <Name URL="">M3KB Myanmar Keyboard</Name>
+    <Copyright URL="">© M3KB</Copyright>
+    <Author URL="">Victor San Kho Lin</Author>
+    <WebSite URL="https://github.com/victorskl/m3kb">https://github.com/victorskl/m3kb</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>m3kb.kmx</Name>
+      <Description>Keyboard M3KB Myanmar Keyboard</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>M3KB Myanmar Keyboard</Name>
+      <ID>m3kb</ID>
+      <Version>1.2</Version>
+      <Languages/>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
